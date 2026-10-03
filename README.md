@@ -9,8 +9,6 @@ Turns a doctor's free-text dictation into structured clinical sections (chief co
 
 > **Synthetic data only.** Every note in this repository was written for testing. Do not enter real patient data. This is a portfolio project, not a medical device.
 
-**Live demo:** [huggingface.co/spaces/jeevanraj-28/Clinical-NLP-Demo](https://huggingface.co/spaces/jeevanraj-28/Clinical-NLP-Demo)
-
 ---
 
 ## Contents
