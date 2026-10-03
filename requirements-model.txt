@@ -1,0 +1,5 @@
+# Optional: abstractive summaries with sshleifer/distilbart-cnn-12-6 (about 1 GB download on first use)
+-r requirements.txt
+transformers==4.44.2
+torch==2.3.1
+sentencepiece==0.2.0
