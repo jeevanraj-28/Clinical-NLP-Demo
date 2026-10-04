@@ -5,7 +5,8 @@ Turns a doctor's free-text dictation into structured clinical sections (chief co
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-app-FF4B4B?logo=streamlit&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-DistilBART-FFD21E?logo=huggingface&logoColor=black)
-![Tests](https://img.shields.io/badge/tests-19_passing-22c55e)
+[![tests](https://github.com/jeevanraj-28/Clinical-NLP-Demo/actions/workflows/tests.yml/badge.svg)](https://github.com/jeevanraj-28/Clinical-NLP-Demo/actions/workflows/tests.yml)
+![License](https://img.shields.io/badge/License-MIT-22c55e)
 
 > **Synthetic data only.** Every note in this repository was written for testing. Do not enter real patient data. This is a portfolio project, not a medical device.
 
@@ -267,4 +268,4 @@ Two bugs were found by the tests and the stress test while building v2:
 
 **Jeevan Raj M** · [LinkedIn](https://linkedin.com/in/jeevan-raj-m-5ba64a383) · [GitHub](https://github.com/jeevanraj-28) · [Portfolio](https://jeevanraj-28.github.io)
 
-All notes are synthetic. No real patient data and no proprietary code from any employer is used in this repository.
+Licensed under the [MIT License](LICENSE). All notes are synthetic. No real patient data and no proprietary code from any employer is used in this repository.
