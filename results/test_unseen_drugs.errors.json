@@ -1,0 +1,50 @@
+[
+  {
+    "note": "t03",
+    "section": "Medications",
+    "type": "extra",
+    "text": "known diabetic on metformin 500 mg twice daily"
+  },
+  {
+    "note": "t14",
+    "section": "Diagnosis",
+    "type": "missed",
+    "text": "hypertension"
+  },
+  {
+    "note": "t14",
+    "section": "Follow-up Plan",
+    "type": "extra",
+    "text": "follow-up visit for hypertension"
+  },
+  {
+    "note": "t19",
+    "section": "Chief Complaint",
+    "type": "extra",
+    "text": "ace inhibitor induced cough"
+  },
+  {
+    "note": "t19",
+    "section": "Diagnosis",
+    "type": "missed",
+    "text": "ace inhibitor induced cough"
+  },
+  {
+    "note": "t02",
+    "section": "Medication name",
+    "type": "missed",
+    "text": "calamine"
+  },
+  {
+    "note": "t08",
+    "section": "Medication name",
+    "type": "extra",
+    "text": "rehydration"
+  },
+  {
+    "note": "t08",
+    "section": "Medication name",
+    "type": "missed",
+    "text": "oral rehydration solution"
+  }
+]
